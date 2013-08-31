@@ -6,13 +6,14 @@ Website Site Development
 
 Website content Caldans 
 
-Pages 
-Home
-Project Management
-Consultancy
-System Integration
-Contact
-News
+Pages
+----- 
+-Home
+-Project Management
+-Consultancy
+-System Integration
+-Contact
+-News
 
 Slider Images 5 per page
 Content paragraphs Images per page.
