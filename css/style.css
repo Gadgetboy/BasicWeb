@@ -9,7 +9,7 @@ Author:			Alan Smith
 
 
 body{
-	background-image: url(images/bg.png);
+	background-image: url("../images/bg.png");
 	color: #000305;
 	font-size: 87.5%; /*Base font is 14px*/
 	font-family: Arial, 'Lucial Sans Unicode';
@@ -68,7 +68,7 @@ a:hover, a:active{
 }
 
 .mainHeader nav a:hover, .mainHeader nav a:active,
-.mainHeader nav active a:link, .mainHeader nav.active a:visited{
+.mainHeader nav .active a:link, .mainHeader nav.active a:visited{
 	background-color: #CF5C3F;
 	text-shadow: none;
 }
